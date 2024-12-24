@@ -1,4 +1,4 @@
-# Automating SQL Injection with LLM Agents: A GPT-4O and Llama-Index Framework
+# Automating SQL Injection with LLM Agents: A GPT-4o and Llama-Index Framework
 
 This project demonstrates an innovative approach to automating SQL injection using advanced Large Language Models (LLMs). By integrating **GPT-4O** and **Llama-Index's ReAct Agent**, we developed a system capable of performing SQL injection tasks with minimal human intervention. Our framework bridges automation and intelligent decision-making, enabling precise, efficient, and scalable SQL injection operations.
 
