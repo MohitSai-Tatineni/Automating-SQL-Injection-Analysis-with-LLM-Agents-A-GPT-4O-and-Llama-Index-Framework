@@ -31,9 +31,6 @@ Identify all the table names in the database. Determine which table contains use
 
 The system autonomously interacts with the database, navigating through its schema to fetch and analyze the required data.
 
-## 📷 Architecture Overview
-
-(Add a visual representation of the architecture here to illustrate the interplay between LLM, ReAct Agent, and the SQL injection tools.)
 
 ## 💡 Why This Matters
 
